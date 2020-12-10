@@ -15,7 +15,5 @@ console.log('Ana,Maria,Lanes'.split(',')); //.split faz essa expressão virar ar
 
 
 
-
-
 console.log();
 console.log();
