@@ -8,9 +8,19 @@ console.log(valor); // foi declarada mas não atribuída um valor primitivo e n�
 
 const produto = {};
 console.log(produto.preco); // Neste caso é um undefined pq preco não tem atribuição
+console.log(produto);// Mostra que o objeto foi criado porém está vazio, por isso alcansamos o undefined do preco
 
+produto.preco = 3.50;
+console.log(produto);
 
+produto.preco = undefined; // Evite atribuir o undefined
+console.log(!!produto.preco);
 
+console.log(produto);
+
+produto.preco = null // sem preço
+console.log(!!produto.preco);
+console.log(produto)
 
 
 
