@@ -18,3 +18,5 @@ function teste(){
 
 teste();// Chmando a função funcionará pois ela irá trazer seu escopo completo.
 console.log(local);// Ocorrerá um erro, pois a variável local, não poderá ser acessada.
+
+cosole.log("Olá este é o fim da aula sobre var 1");
