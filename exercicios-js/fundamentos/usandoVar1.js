@@ -10,6 +10,10 @@ console.log(sera);
 // Em um novo escopo especial, neste caso, uma função.
 // A variavel poderá ser utilizada e/ou estará visível apenas dentro da função
 
+// Escopo de variável utilizando var temos:
+// * Escopo global
+// * Escopon de função
+
 function teste(){
     var local = 123;
     console.log(local);
