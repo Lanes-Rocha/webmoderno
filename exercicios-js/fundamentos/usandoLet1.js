@@ -5,8 +5,13 @@ console.log("Começando com o Let");
 // * Escopo de função
 // * Escopo de bloco
 
+// Escopo de variável utilizando var temos:
+// * Escopo de função
+// * Escopo de bloco
+
 var numero = 1;
 {
+    //
     let numero = 2;
     console.log('dentro = ', numero);
 }
