@@ -32,4 +32,4 @@ console.log(!!('' || null || 0 || ' '));
 let nome = '';
 console.log(nome || 'Desconhecido');
 
-console.log("Fim");
+console.log("fim1");
