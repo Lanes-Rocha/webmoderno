@@ -33,3 +33,4 @@ let nome = '';
 console.log(nome || 'Desconhecido');
 
 console.log("ÚLTIMA ATUALIZAÇÃO");
+console.log("Configuração final");
