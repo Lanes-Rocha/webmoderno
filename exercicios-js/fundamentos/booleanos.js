@@ -36,3 +36,4 @@ console.log("ÚLTIMA ATUALIZAÇÃO");
 console.log("Configuração final");
 
 console.log("Retorno do Github");
+console.log("Configuração meu PC");
