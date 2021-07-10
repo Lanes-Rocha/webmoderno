@@ -1,4 +1,5 @@
 // NOVO RECURSO DO ES2015
+//Neste caso o destructuring é as chaves exemplo: const const {nome, idade} = pessoa console.log(nome, idade);
 
 const pessoa = {
     nome: 'Ana',
@@ -12,7 +13,7 @@ const {nome, idade} = pessoa
 console.log(nome, idade);
 
 
-const {nome: n , idade: i} = pessoa;
+const {nome: n , idade: i} = pessoa;// criando uma veriavel para armazenar o atributo do objeto
 console.log(n, i);
 
 //Forçando um Undefined
