@@ -27,3 +27,4 @@ console.log(global.abc)
 // Não ultilizar 'var' e nem 'let' de forma errada 
 // Pois esse processo pode acarretar problemas do tipo em um escopo global nao utilizar var e sim let pra
 // declarar pois pode haver subistiuições de outras variáveis.
+// Sempre fuja de criar variaveis em escopo global
