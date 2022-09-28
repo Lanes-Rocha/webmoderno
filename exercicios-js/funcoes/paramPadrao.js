@@ -3,7 +3,7 @@ function soma1(a,b,c){
     b = b || 1
     c = c || 1
 
-    return a + b + c
+    return a + b + c 
 }
 
 console.log(soma1(), soma1(3), soma1(1, 2, 3), soma1(0, 0, 0))
