@@ -9,4 +9,4 @@ function exc(){
     minhaFuncao()
 }
 
-exc()
+exec()
